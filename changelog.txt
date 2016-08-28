@@ -1,0 +1,7 @@
+August 25, 2016:
+	-Started Config
+	
+August 26, 2016:
+	Aliases:
+		-Changed "//Quick build and destroy framework" in engie_alias.cfg to use the correct commands for teleporter entrances and exits. (Was 1 and 3, is now "1 0" and "1 1" respectively)
+		-Added Loadout Quick-Switch functionality
